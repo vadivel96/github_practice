@@ -1,0 +1,12 @@
+.title{
+    text-align: center;
+}
+.todolist{
+    align-items: center;
+    justify-content: center;
+}
+
+textarea{
+    height: 150px;
+    width: 500px;
+}
