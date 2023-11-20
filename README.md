@@ -1,2 +1,2 @@
 # todolist_fe_Js
-just checking everything works!!!!!!!!!  half understood!!
+just checking everything works!!!!!!!!! trying for full understanding !!
